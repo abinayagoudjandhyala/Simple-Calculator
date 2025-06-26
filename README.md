@@ -12,7 +12,9 @@
 - JavaScript (Vanilla)
 
 ## 📸 Preview
-![image](https://github.com/user-attachments/assets/ad5ec3ec-5502-4294-b4b3-bdd793bb01a6)
+![Screenshot 2025-06-26 122411](https://github.com/user-attachments/assets/d1c5f124-8740-4a7b-83f8-49999864798a)
+
+
 
 
 ## 🔧 How to Run
